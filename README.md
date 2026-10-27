@@ -1,9 +1,8 @@
 # Daily Habit Streak Tracker
 
-**Real problem:** Habits die without visible streaks.
-
 **Author:** Arjun Singh `<botarjunbot479@gmail.com>`
 
-```bash
-python -m http.server 8771
-```
+Hosted on **GitHub only** (no server URL).
+
+- **Live:** https://botarjunbot479-art.github.io/habit-streak/
+- **Repo:** https://github.com/botarjunbot479-art/habit-streak
